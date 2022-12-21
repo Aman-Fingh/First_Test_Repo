@@ -1,0 +1,5 @@
+site_name: 'Rest API Design Guidelines'
+use_directory_urls: true
+
+nav:
+  - Home: index.md
